@@ -1,0 +1,6 @@
+.flex{display: flex;
+justify-content: space-around;}
+
+.part{width: 50%;
+border: 1px solid gold;}
+.part img{width: 100%;}
