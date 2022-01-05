@@ -10,10 +10,11 @@ border: 1px solid rgb(221, 221, 16);}
 h1{font-size: 50px;}
 span{color: goldenrod;}
 
-.one a{text-decoration: none;
-    width: 32px;
+.one a{border-radius: 5px;
+    text-decoration: none;
+    width: 40px;
     height: 16px;
-    padding: 10px 5px;
+    padding: 15px 30px;
 background-color: rgb(4, 152, 252);}
 
-
+.two{text-align: center;}
