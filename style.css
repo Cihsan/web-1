@@ -1,6 +1,19 @@
 .flex{display: flex;
-justify-content: space-around;}
+justify-content: space-around;
+}
 
-.part{width: 50%;
-border: 1px solid gold;}
-.part img{width: 100%;}
+.part{padding:3%;
+    width: 50%;
+border: 1px solid rgb(221, 221, 16);}
+.part img{width: 65%;}
+
+h1{font-size: 50px;}
+span{color: goldenrod;}
+
+.one a{text-decoration: none;
+    width: 32px;
+    height: 16px;
+    padding: 10px 5px;
+background-color: rgb(4, 152, 252);}
+
+
