@@ -25,7 +25,6 @@ h1{color:#333333;
     font-size: 60px;}
 span{color:#FF5959 ;}
 
-/* yellow #FFAD5A */
 .part p{font-size: 18px;
     line-height: 1.6;
 color: #030303;}
@@ -38,12 +37,13 @@ color: #030303;}
         padding: 15px 30px;
     background-color: #0B0D17;
     color:#fff;}
-  /* pink  #FF5959 */
+
     .part img{width: 65%;}
 
     .one a:hover{border: 5px solid #FFAD5A;}
 
     #toppad{margin-top: 2%;}
+
 /* Section two */
 
 #txtcnt h2{font-size: 48px;
