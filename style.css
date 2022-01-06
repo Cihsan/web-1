@@ -1,6 +1,7 @@
 
 body{margin: 0;
     padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
     /* font-family: 'Poppins', sans-serif; */
 
@@ -40,6 +41,9 @@ color: #030303;}
   /* pink  #FF5959 */
     .part img{width: 65%;}
 
+    .one a:hover{border: 5px solid #FFAD5A;}
+
+    #toppad{margin-top: 2%;}
 /* Section two */
 
 #txtcnt h2{font-size: 48px;
@@ -52,17 +56,20 @@ height: 141px;}
 #part1{width: 360px;
 height: 376px;
 background-color: gold;
-text-align: center;}
+text-align: center;
+font-size: 18px;}
 
 #part2{width: 360px;
     height: 376px;
     background-color: gold;
-    text-align: center;}
+    text-align: center;
+    font-size: 18px;}
 
 #part3{width: 360px;
         height: 376px;
         background-color: gold;
-        text-align: center;}
+        text-align: center;
+    font-size: 18px;}
 
 #part1 img{width: 126;
 height: 126px;}
@@ -73,7 +80,7 @@ height: 126px;}
     height: 126px;}
 
 /* Section three */
-h3{font-weight: 900;}
+h3{font: size 50px; ;}
 
 .link{border-radius: 5px;
     text-decoration: none;
@@ -83,15 +90,19 @@ h3{font-weight: 900;}
 background-color: #0B0D17;
 color:#fff;}
 
+.link:hover{border: 5px solid #FFAD5A;}
+
 /* Section four */
 
+/* Section fve */
 
 /* footer */
+
 
 footer{text-align: center;
     width: 100%;
 height: 150px;
-background-color: #0B0D17;}
+background-color: #0B0D17;} 
 
 footer h2{padding-top: 4%;
   color: #FF5959;}
